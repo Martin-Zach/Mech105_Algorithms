@@ -8,3 +8,5 @@ This funciton determines the LU factorization of a square matrix with the option
 * P - the pivot matrix
 ## Limitations ##
 * Matrix must be square
+
+With the equation [P][A] = [L][U] you can solve for the original matrix
