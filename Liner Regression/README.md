@@ -5,7 +5,7 @@ This funcion will perform the following
 * compute a linear regression line and put it into slope intercept form
 * compute the R-squared value
 ## Inputs ##
-* x-values od the data set
+* x-values of the data set
 * y-values of the data set
 ## Outputs ##
 * Filtered x-values (i.e. the input x-values but without the outlier points), sorted from smallest to largest
@@ -15,3 +15,6 @@ This funcion will perform the following
 * R-squared value
 ## Limitations ##
 * number of x and y values must be the same
+
+**Linear regression does not prove causation!**
+The closer the R-Squared value is to 1, the stronger the linear relationshiop is between the two variables.
