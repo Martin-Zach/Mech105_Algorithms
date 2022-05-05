@@ -7,3 +7,4 @@ This repository contains various MATLAB codes created during my freshman Mech105
 * Special Matrix
 
 These functions should work for any type of input that follows the guidlines stated in the indiviual README files inside each folder.
+These codes are not perfect and rather show my progression as a MATLAGB coder.
