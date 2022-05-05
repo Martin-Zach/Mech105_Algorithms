@@ -6,7 +6,7 @@ This funcion will
 * Error check that the x input is equally spaced
 * Warn the user (not an error, just a warning) if the trapezoidal rule has to be used on the last interval
 
-##Inputs##
+## Inputs ##
 * x - the vector of equally spaced independent variable
 * y - the vector of function values with respect to x
 ## Outputs ##
