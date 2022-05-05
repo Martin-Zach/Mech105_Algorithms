@@ -16,4 +16,4 @@ I - the numerical integral calculated
 * The inputs must be more than one value
 * The x input must be evenly spaced
 
-Simpson's 1/3 rule is second order accurate
+Simpson's 1/3 rule is second order accurate and for higher orders it is just an approximation of the integral.
