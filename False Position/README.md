@@ -12,3 +12,5 @@ This funciont performes root finding on a function using the false position meth
 * fx - the function evaluated at the root location
 * ea - the approximate relative error (%)
 * iter - how many iterations were performed
+
+False Position is a bracketing/closed method and will always work for finding the root of a funciton. However, its downside is that it can be slower than other open methods.
